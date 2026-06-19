@@ -126,4 +126,3 @@ oracle-retail-management-system/
 **Ahmed Helmy** — AI Engineering Student
 [GitHub](https://github.com/v7med7elmy-ai)
 
-> Project built individually — teammate contributed the Reports module.
