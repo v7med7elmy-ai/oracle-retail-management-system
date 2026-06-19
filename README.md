@@ -6,7 +6,7 @@ A fully functional retail management system built on Oracle Database 10g and Ora
 
 ## 📐 Entity Relationship Diagram (ERD)
 
-![ERD](erd/erd.png)
+![ERD](erd/ERD.png)
 
 ---
 
