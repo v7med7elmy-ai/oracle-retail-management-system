@@ -118,9 +118,20 @@ oracle-retail-management-system/
 -- 4. Open MAIN_MENU.fmb and compile (Ctrl+T)
 -- 5. Run the form
 ```
-
 ---
+## 👥 Team
 
+Built by a team of 5 students — Menoufia University.
+
+| Name | Contribution |
+|------|-------------|
+| **Ahmed Helmy** ⭐ | Team Leader · Oracle Forms (all modules) · App integration · Data entry & migration |
+| **Ammar Yasser** | SQL Schema (Tables & Sequences) |
+| **Ahmed Saber** | Oracle Reports module |
+| **Ibrahim Hesham** | Database Triggers support |
+| **Abdo** | Database Tables support |
+---
+---
 ## 👤 Author
 
 **Ahmed Helmy** — AI Engineering Student
